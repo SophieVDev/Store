@@ -28,7 +28,6 @@ Le projet est actuellement en phase de développement. Plusieurs fonctionnalité
 
 ## Configuration et Lancement
 
-To deploy this project run
 
 Clonez le dépôt Git : git clone url_du_dépôt
 
@@ -39,5 +38,5 @@ Lancez l'application : clique droit sur main puis run main
 
 ## Screenshots
 
-![App Screenshot](https://github.com/SophieVDev/Store/src\img\sitejavafx.png)
+![App Screenshot](https://github.com/SophieVDev/Store/blob/main/Store/src/img/sitejavafx.png)
 
