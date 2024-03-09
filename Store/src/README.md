@@ -38,5 +38,5 @@ Lancez l'application : clique droit sur main puis run main
 
 ## Screenshots
 
-![App Screenshot](https://github.com/SophieVDev/Store/blob/main/Store/src/img/sitejavafx.png)
+![App Screenshot](C:\Users\Verc\IdeaProjects\Store\Store\src\img\sitejavafx.png)
 
