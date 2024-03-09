@@ -38,5 +38,5 @@ Lancez l'application : clique droit sur main puis run main
 
 ## Screenshots
 
-![App Screenshot](C:\Users\Verc\IdeaProjects\Store\Store\src\img\sitejavafx.png)
+![App Screenshot](Store\Store\src\img\sitejavafx.png)
 
